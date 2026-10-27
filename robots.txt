@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://ernest-0745.github.io/fruitdex/sitemap.xml
